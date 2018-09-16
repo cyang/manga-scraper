@@ -482,3 +482,73 @@ JavaScript warning: https://manganelo.com/themes/home/js/jquery-1.9.1.min.js?v=8
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-110559829-1, line 74: unreachable code after return statement
 JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-110559829-1, line 74: unreachable code after return statement
 [Child 17293, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1537118780093	geckodriver	INFO	geckodriver 0.20.1
+1537118780099	geckodriver	INFO	Listening on 127.0.0.1:54189
+1537118781109	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ch/v7j_w2057ms6ynry7zbqjkfc0000gn/T/rust_mozprofile.N5mZjQaMz1TA"
+2018-09-16 13:26:22.883 plugin-container[17329:373624] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537118783384	Marionette	INFO	Listening on port 54202
+1537118783436	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-09-16 13:26:23.983 plugin-container[17330:373734] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://manganelo.com/themes/home/js/jquery-1.9.1.min.js?v=8, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-110559829-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-110559829-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-6, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-6, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-6, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-6, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-6, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-6, line 74: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1537118840466	geckodriver	INFO	geckodriver 0.20.1
+1537118840473	geckodriver	INFO	Listening on 127.0.0.1:54582
+1537118841486	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ch/v7j_w2057ms6ynry7zbqjkfc0000gn/T/rust_mozprofile.TmzEsF82fXSk"
+2018-09-16 13:27:23.366 plugin-container[17368:375469] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9837, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537118843864	Marionette	INFO	Listening on port 54595
+1537118843899	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-09-16 13:27:24.491 plugin-container[17369:375583] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://manganelo.com/themes/home/js/jquery-1.9.1.min.js?v=8, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-110559829-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-110559829-1, line 74: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17369, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1537118854302	geckodriver	INFO	geckodriver 0.20.1
+1537118854308	geckodriver	INFO	Listening on 127.0.0.1:54783
+1537118855316	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ch/v7j_w2057ms6ynry7zbqjkfc0000gn/T/rust_mozprofile.HCur0EuTkQNW"
+1537118931145	geckodriver	INFO	geckodriver 0.20.1
+1537118931153	geckodriver	INFO	Listening on 127.0.0.1:54974
+1537118932164	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ch/v7j_w2057ms6ynry7zbqjkfc0000gn/T/rust_mozprofile.dXh8UAeIvHZV"
+2018-09-16 13:28:53.848 plugin-container[17415:378167] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537118934340	Marionette	INFO	Listening on port 54987
+1537118934444	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-09-16 13:28:54.917 plugin-container[17416:378286] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x922b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://manganelo.com/themes/home/js/jquery-1.9.1.min.js?v=8, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-110559829-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-110559829-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-6, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-6, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-6, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-6, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-6, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-6, line 74: unreachable code after return statement
+JavaScript warning: https://manganelo.com/themes/home/js/jquery-1.9.1.min.js?v=8, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-110559829-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-110559829-1, line 74: unreachable code after return statement
+[Child 17415, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1537119013429	geckodriver	INFO	geckodriver 0.20.1
+1537119013435	geckodriver	INFO	Listening on 127.0.0.1:55386
+1537119014445	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ch/v7j_w2057ms6ynry7zbqjkfc0000gn/T/rust_mozprofile.UccG7NgYUidF"
+2018-09-16 13:30:16.295 plugin-container[17443:380825] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9837, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537119016805	Marionette	INFO	Listening on port 55399
+1537119016844	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-09-16 13:30:17.379 plugin-container[17445:380955] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://manganelo.com/themes/home/js/jquery-1.9.1.min.js?v=8, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-110559829-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-110559829-1, line 74: unreachable code after return statement
