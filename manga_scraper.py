@@ -30,6 +30,6 @@ try:
         html = driver.page_source
         file_object.write(html)
 
-        print str(round(float(chapter)/CHAPTER_END, 2)) + "%: Downloaded " + MANGA_TITLE + " chapter " + str(chapter) 
+        print str(round(float(chapter)/CHAPTER_END * 100, 2)) + "%: Downloaded " + MANGA_TITLE + " chapter " + str(chapter) 
 finally:
     driver.quit()
